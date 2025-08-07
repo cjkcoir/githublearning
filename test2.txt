@@ -1,0 +1,5 @@
+git clone https://github.com/cjkcoir/githublearning.git  --- to move repo to local machine
+git status - to view the status
+git add test2.txt  -- from the local machine created file test.txt is added
+git commit -m "test2.txt file added" -- it will move the file to gitcopy in local machine
+git push origin main - move the file from gitcopy in local machine to origin main in repository
